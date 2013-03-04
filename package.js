@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Provides Bootstrap 3.0 complete with LESS files. For use with Meteor Belt"
+  summary: "Provides Bootstrap 3.0 complete with LESS files. For use with Meteor Belt applications"
 });
 
 Package.on_use(function (api, where) {
