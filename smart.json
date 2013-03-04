@@ -1,0 +1,9 @@
+{
+  "name": "belt-bootstrap",
+  "description": "Bootstrap for Meteor Belt",
+  "homepage": "https://github.com/meteorbelt/belt-bootstrap",
+  "author": "Kyle Finley <kyle@meteorbelt.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/meteorbelt/belt-bootstrap.git",
+  "packages": {}
+}
