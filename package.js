@@ -5,6 +5,7 @@ Package.describe({
 Package.on_use(function (api, where) {
   api.use('deps', 'client');
   api.use('jquery', 'client');
+  api.use('less', 'client');
 
   api.add_files([
     'bootstrap/fonts/glyphiconshalflings-regular.eot',
@@ -12,6 +13,7 @@ Package.on_use(function (api, where) {
     'bootstrap/fonts/glyphiconshalflings-regular.svg',
     'bootstrap/fonts/glyphiconshalflings-regular.ttf',
     'bootstrap/fonts/glyphiconshalflings-regular.woff',
+    'bootstrap/less/bootstrap.less',
 
     'bootstrap/js/bootstrap-transition.js',
     'bootstrap/js/bootstrap-alert.js',
