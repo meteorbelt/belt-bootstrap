@@ -3,15 +3,16 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
+  api.use('belt');
   api.use('deps', 'client');
   api.use('jquery', 'client');
 
   api.add_files([
-    'bootstrap/fonts/glyphiconshalflings-regular.eot',
-    'bootstrap/fonts/glyphiconshalflings-regular.otf',
-    'bootstrap/fonts/glyphiconshalflings-regular.svg',
-    'bootstrap/fonts/glyphiconshalflings-regular.ttf',
-    'bootstrap/fonts/glyphiconshalflings-regular.woff',
+    // 'bootstrap/fonts/glyphiconshalflings-regular.eot',
+    // 'bootstrap/fonts/glyphiconshalflings-regular.otf',
+    // 'bootstrap/fonts/glyphiconshalflings-regular.svg',
+    // 'bootstrap/fonts/glyphiconshalflings-regular.ttf',
+    // 'bootstrap/fonts/glyphiconshalflings-regular.woff',
 
     'bootstrap/js/bootstrap-transition.js',
     'bootstrap/js/bootstrap-alert.js',
