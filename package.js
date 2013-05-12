@@ -25,6 +25,5 @@ Package.on_use(function (api, where) {
     'bootstrap/js/bootstrap-button.js',
     'bootstrap/js/bootstrap-collapse.js',
     'bootstrap/js/bootstrap-carousel.js',
-    'bootstrap/js/bootstrap-typeahead.js',
     'bootstrap/js/bootstrap-affix.js'], 'client');
 });
