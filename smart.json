@@ -1,9 +1,9 @@
 {
   "name": "belt-bootstrap",
   "description": "Provides Bootstrap 3.0 complete with LESS files. For use with Meteor Belt applcations",
-  "homepage": "https://github.com/meteorbelt/belt-bootstrap",
+  "homepage": "https://github.com/meteorbelt/belt-bootstrap3",
   "author": "Kyle Finley <kyle@meteorbelt.com>",
   "version": "0.1.1",
-  "git": "https://github.com/meteorbelt/belt-bootstrap.git",
+  "git": "https://github.com/meteorbelt/belt-bootstrap3.git",
   "packages": {}
 }

@@ -1,0 +1,19 @@
+{
+  "name": "belt-bootstrap3",
+  "version": "0.1.1",
+  "homepage": "https://github.com/meteorbelt/belt-bootstrap3",
+  "authors": [
+    "Kyle Finley <kyle@meteorbelt.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0"
+  }
+}
